@@ -1,0 +1,2 @@
+# lilak
+Embedded Device Platform
