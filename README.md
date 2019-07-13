@@ -1,4 +1,4 @@
-![Lilak](art/logo_fullwords_hq.png)
+![Lilak](art/logo_fullname_hq.png)
 
 ---
 
