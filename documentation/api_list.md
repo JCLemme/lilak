@@ -53,8 +53,11 @@ Service (Event driven access to device features)
     Math
     ----
     
+    Network
+    -------
+    
     Communication
-    ----------
+    -------------
         Bluetooth
         WiFi
         Cellular
