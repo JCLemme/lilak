@@ -15,7 +15,8 @@ To be effective, Lilak needs to focus on two things: making it easy to write com
 
 ## Run everywhere ##
 
-Lilak runs on top of other RTOS kernels and avoids making any assumptions about the underlying hardware, making porting to new platforms a snap. 
+Lilak runs on top of other RTOS kernels and avoids making any assumptions about the underlying hardware, making porting Lilak to new architectures a snap. 
+The hardware abstraction layer means porting Lilak to a new platform on an already-supported architecture is as simple as writing drivers for hardware devices and editing config files.
 
 ## Hardware independence ##
 
